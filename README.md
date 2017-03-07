@@ -1,4 +1,4 @@
-# famislayer
+# FamiSlayer
 **FAMISLAYER v6.66**<br />
 Copyright 2014 Dan Vujeva<br />
 For more information, visit: http://www.heavyw8bit.com<br />
